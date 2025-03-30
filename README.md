@@ -1,2 +1,2 @@
 # CertiPortal
-Project Semester - II
+Semester - II Major Project
